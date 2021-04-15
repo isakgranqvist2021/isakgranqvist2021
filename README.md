@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Isak Granqvist</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isakgranqvist2021&label=Profile%20views&color=0e75b6&style=flat" alt="isakgranqvist2021" /> </p>
+<h3 align="center">Addicted to programming</h3>
+
+- 🔭 I’m currently working on [some node thing](https://github.com/isakgranqvist2021/fictional-octo-waffle)
+
+- 👨‍💻 All of my projects are available at [https://isakgranqvist.com](https://isakgranqvist.com)
+
+- 💬 Ask me about **Angular, Nodejs, Golang**
+
+- 📫 How to reach me **isakwebdev@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
