@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isak Granqvist</h1>
-<h3 align="center">Addicted to programming</h3>
+<h1>Hi 👋, I'm Isak Granqvist</h1>
 
 - 🔭 I’m currently working on [some node thing](https://github.com/isakgranqvist2021/fictional-octo-waffle)
 
