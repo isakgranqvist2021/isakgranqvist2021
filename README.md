@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Isak Granqvist</h1>
 
-- 🔭 I’m currently working on [some node thing](https://github.com/isakgranqvist2021/fictional-octo-waffle)
+- 🔭 I’m currently working on [this thing](https://github.com/isakgranqvist2021/affiliate-network-api)
 
 - 👨‍💻 All of my projects are available at [https://isakgranqvist.com](https://isakgranqvist.com)
 
