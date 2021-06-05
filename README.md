@@ -8,5 +8,4 @@
 
 - 📫 How to reach me **isakwebdev@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isakgranqvist2021&show_icons=true&locale=en&layout=compact" alt="isakgranqvist2021" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakgranqvist2021&langs_count=8)]
