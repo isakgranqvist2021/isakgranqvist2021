@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://isakgranqvist.com](https://isakgranqvist.com)
 
-- 💬 Ask me about **Angular, Nodejs, Golang**
+- 💬 Ask me about **Angular, React.js, Nodejs, Golang**
 
 - 📫 How to reach me **isakwebdev@gmail.com**
 
