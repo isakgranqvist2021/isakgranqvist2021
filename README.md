@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isakgranqvist2021" alt="isakgranqvist2021" /></a> </p>
-
 - Portfolio [https://isakgranqvist.com/projects](https://isakgranqvist.com/projects)
 
 - Email **contact@isakgranqvist.com**
