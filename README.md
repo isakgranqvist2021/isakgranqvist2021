@@ -8,5 +8,5 @@
 
 - 📫 How to reach me **contact@isakgranqvist.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakgranqvist2021&langs_count=5&hide=scss,html,ejs,handlebars,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakgranqvist2021&langs_count=5&hide=scss,html,ejs,handlebars,css,php)
 
