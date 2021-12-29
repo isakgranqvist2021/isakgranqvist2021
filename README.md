@@ -1,1 +1,1 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/isakgranqvist/isakgranqvist/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/isakgranqvist/isakgranqvist/pexels-lukas-574071.jpg "Header")](https://some-url.dev/)
