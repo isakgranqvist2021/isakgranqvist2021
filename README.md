@@ -1,3 +1,3 @@
-[![Header](https://github.com/isakgranqvist2021/isakgranqvist2021/blob/main/github-header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/isakgranqvist2021/isakgranqvist2021/blob/main/github-header.png "Header")](https://isakgranqvist.com/)
 
 
